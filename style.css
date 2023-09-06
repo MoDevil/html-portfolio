@@ -15,9 +15,16 @@ body{
 .poster{
     width: 50%;
     border: 5px solid #3C2A21;
+    border-radius: 15px;
     margin-left: 25%;
     margin-top: 2%;
+    padding-right: 25px;
+    padding-left: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 .img{
     border: 1px solid black;
+    border-radius: 5px;
+    width: 100%;
 }
